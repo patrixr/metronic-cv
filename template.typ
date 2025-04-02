@@ -48,9 +48,6 @@
 #show heading.where(level: 1): set text(size: 22pt, weight: "bold")
 #show heading.where(level: 2): set text(size: 14pt, weight: "bold")
 
-#let empty = ""
-#let name = "Patrick Rabier"
-#let role = "Lead Software Engineer"
 #let font = "Inter"
 
 // --------------------------------------
